@@ -7,3 +7,4 @@ sayHello('john')
 sayHello(name.abi)
 sayHello(name.arthi)
 console.log(data);
+console.log("done")
